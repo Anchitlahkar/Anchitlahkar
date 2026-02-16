@@ -1,254 +1,412 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=ANCHIT+LAHKAR" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Cryptography+%26+Security+Expert+%F0%9F%94%90;ML+Engineer+%F0%9F%A4%96;Post-Quantum+Contributor+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anchitlahkar&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anchitlahkar?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Anchitlahkar?label=Stars&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Stars" />
+</p>
+
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=header&animation=fadeIn&fontColor=fff"/>
+</div>
+
+---
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
+
+## 🧑‍💻 WHO AM I?
+
+```yaml
+name: Anchit Lahkar
+located_in: India 🇮🇳
+current_role: Full Stack Developer & Security Researcher
+education: 
+  - "Computer Science & Engineering"
+  - "Specialization: AI/ML & Cryptography"
+
+fields_of_interests:
+  - "Post-Quantum Cryptography"
+  - "Machine Learning & AI"
+  - "Web3 & Blockchain"
+  - "Secure System Architecture"
+  - "Full Stack Development"
   
-# 👨‍💻 Anchit Lahkar
+currently_learning:
+  - "Advanced ML Algorithms"
+  - "Quantum-Resistant Security"
+  - "Cloud Native Architecture"
+  - "Zero-Knowledge Proofs"
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+2026_goals:
+  - "Contribute to 100+ open source projects"
+  - "Master distributed systems"
+  - "Build production-grade AI applications"
+  - "Publish research in cryptography"
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍️", "Open Source 🌟"]
+```
+
+<br clear="both"/>
+
+---
+
+## 🔥 MAJOR ACHIEVEMENT
+
+<div align="center">
+
+### 🛡️ Post-Quantum Secure Exchange Framework
+[![Project](https://img.shields.io/badge/Cyberbee--pro-Post--Quantum--Framework-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberbee-pro/Post-quantum-secure-exchange-framework)
+![Status](https://img.shields.io/badge/Status-ACTIVE-00FF41?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-CRITICAL-FF6B6B?style=for-the-badge)
+
+**Major Contributor** | Implementing quantum-resistant cryptographic protocols for secure communication in the post-quantum era
+
+<details>
+<summary><b>🔍 Click to see what this means</b></summary>
+
+<br>
+
+> **This is cutting-edge security research** that protects against future quantum computer attacks. 
+> 
+> Just like GitHub deployed post-quantum SSH in 2025, this project implements similar quantum-resistant algorithms (NTRU Prime, Kyber) to secure key exchange protocols. This work addresses the "store now, decrypt later" threat where adversaries collect encrypted data today to decrypt when quantum computers become powerful enough.
+
+**Key Contributions:**
+- 🔐 Implemented lattice-based key exchange mechanisms
+- 🛡️ Designed secure protocols resistant to quantum attacks  
+- 🚀 Optimized performance for production environments
+- 📊 Contributed to NIST-standardized PQC algorithms
+
+**Technologies:** Python, Cryptography, NTRU Prime, Kyber, Zero-Knowledge Proofs
+
+</details>
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const anchit = {
-    pronouns: "He" | "Him",
-    location: "🌍 India",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "VSCode", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable applications and contributing to open source",
-    funFact: "I debug with console.log() and I'm not ashamed 🐛"
-};
-```
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK & EXPERTISE
 
 <div align="center">
 
-### 💻 Languages
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 🎨 Frontend
+### 🎨 Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-### ⚙️ Backend
+### ⚡ Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🔐 Cryptography & Security
+
+![Encryption](https://img.shields.io/badge/Encryption-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Post Quantum](https://img.shields.io/badge/Post_Quantum-00D9FF?style=for-the-badge&logo=security&logoColor=white)
+![Zero Knowledge](https://img.shields.io/badge/Zero_Knowledge-0080FF?style=for-the-badge&logo=protonvpn&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### ☁️ DevOps & Tools
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🤖 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🛠️ Tools & Platforms
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchitlahkar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anchitlahkar&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=FF6B6B&currStreakLabel=2E9FFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9FFF&line=FF6B6B&point=2E9FFF" width="100%"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GITHUB STATISTICS
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anchitlahkar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchitlahkar&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchitlahkar&layout=compact&hide_border=true&title_color=00d9ff&text_color=00d9ff&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&border_radius=10" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anchitlahkar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophy" />
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Post-Quantum Cryptography
+[![Post-Quantum Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cyberbee-pro&repo=Post-quantum-secure-exchange-framework&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff&show_owner=true)](https://github.com/Cyberbee-pro/Post-quantum-secure-exchange-framework)
+
+</td>
+<td width="50%">
+
+### 🤖 Alphabet Detection ML
+[![Alphabet Detection](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Alphabet-Detection&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Alphabet-Detection)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔒 Random Encryption
+[![Random Encryption](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Random-Encryption&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Random-Encryption)
+
+</td>
+<td width="50%">
+
+### 🔍 Web Search Engine
+[![Web Search](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Web_Search&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Web_Search)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏥 Medical Project
+[![Medical Project](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Project_Medical&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Project_Medical)
+
+</td>
+<td width="50%">
+
+### 🗺️ Map API Integration
+[![Map API](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Map-api&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Map-api)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true&hide_border=true&custom_title=Anchit's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anchitlahkar&theme=github_dark" width="100%" alt="Profile Summary"/>
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS & METRICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anchitlahkar&theme=github_dark" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anchitlahkar&theme=github_dark" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anchitlahkar&theme=github_dark" width="32%" alt="Most Commit Language"/>
 
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/Anchitlahkar/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+
+</div>
+
+---
+
+## 💭 RANDOM DEV QUOTE
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📊 DETAILED STATS
+
+<div align="center">
+
+<a href="https://github.com/Anchitlahkar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchitlahkar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=00d9ff&border_radius=10"/>
 </a>
-<a href="https://github.com/Anchitlahkar/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💻 CODING ACTIVITY
 
 <div align="center">
 
-![Anchit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&bg_color=0d1117&color=2e9fff&line=ff6b6b&point=ffffff&area=true&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 CURRENT FOCUS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchitlahkar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anchitlahkar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anchitlahkar.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchit@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/youruserid)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anchitlahkar)
-
-</div>
-
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📊 Profile Views & Followers
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anchitlahkar&color=2e9fff&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Anchitlahkar?label=Followers&style=for-the-badge&color=2e9fff)](https://github.com/Anchitlahkar)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```diff
-+ Building full-stack applications with modern tech stack
-+ Contributing to open-source projects
-+ Learning cloud architecture and microservices
-+ Exploring AI/ML integration in web apps
+```mermaid
+mindmap
+  root((Anchit))
+    Post-Quantum Security
+      Lattice Cryptography
+      NTRU Prime
+      Kyber
+    Machine Learning
+      Deep Learning
+      Computer Vision
+      NLP
+    Full Stack
+      React/Next.js
+      Node.js
+      Python/Django
+    Blockchain
+      Smart Contracts
+      DeFi
+      Web3
 ```
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Applications with Next.js](https://yourblog.com/post1)
-- [Mastering TypeScript in 2025](https://yourblog.com/post2)
-- [Docker Best Practices for Developers](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎮 Hobbies & Interests
-
 <div align="center">
 
-🎸 Music | 📚 Reading | 🎮 Gaming | 🏃 Fitness | ✈️ Travel | 📷 Photography
+### 💡 *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+### ⚡ Quick Stats
+
+![](https://hit.yhype.me/github/profile?user_id=64302945)
+
+**📫 How to reach me:**
+- Email: your.email@example.com
+- LinkedIn: [/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+**🎯 2026 Goals:**
+- ✅ Contribute to more open source projects
+- ✅ Master cloud architecture
+- ✅ Build production AI systems
+- ✅ Publish security research
+
+**⚡ Fun fact:** I write more code than I write text messages! 
+
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=120&section=footer&animation=twinkling"/>
+</div>
+
+<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Anchitlahkar.gif?z=6)](https://github4life.herokuapp.com/Anchitlahkar)
+[![GitHub followers](https://img.shields.io/github/followers/Anchitlahkar.svg?style=social&label=Follow)](https://github.com/Anchitlahkar)
+[![GitHub stars](https://img.shields.io/github/stars/Anchitlahkar.svg?style=social&label=Stars)](https://github.com/Anchitlahkar)
 
 </div>
 
 ---
 
 <div align="center">
-  
-**✨ Thanks for visiting! ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+together!+%F0%9F%9A%80;Always+open+to+collaborations!+%F0%9F%A4%9D)
 
 </div>
