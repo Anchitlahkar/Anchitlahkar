@@ -22,67 +22,110 @@
 
 ## 🧑‍💻 WHO AM I?
 
-```yaml
-name: Anchit Lahkar
-located_in: India 🇮🇳
-current_role: Full Stack Developer & Security Researcher
-education: 
-  - "Computer Science & Engineering"
-  - "Specialization: AI/ML & Cryptography"
+<table>
+<tr>
+<td width="50%">
 
-fields_of_interests:
-  - "Post-Quantum Cryptography"
-  - "Machine Learning & AI"
-  - "Web3 & Blockchain"
-  - "Secure System Architecture"
-  - "Full Stack Development"
-  
-currently_learning:
-  - "Advanced ML Algorithms"
-  - "Quantum-Resistant Security"
-  - "Cloud Native Architecture"
-  - "Zero-Knowledge Proofs"
-
-2026_goals:
-  - "Contribute to 100+ open source projects"
-  - "Master distributed systems"
-  - "Build production-grade AI applications"
-  - "Publish research in cryptography"
-
-hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍️", "Open Source 🌟"]
+```python
+class AnchitLahkar:
+    def __init__(self):
+        self.name = "Anchit Lahkar"
+        self.role = "Full Stack Developer & Security Researcher"
+        self.location = "India 🇮🇳"
+        self.education = {
+            "degree": "Computer Science & Engineering",
+            "specialization": ["AI/ML", "Cryptography"]
+        }
+    
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Code",
+            "afternoon": "🔐 Security Research",
+            "evening": "🤖 ML Experiments",
+            "night": "🌙 Open Source Contributions"
+        }
+    
+    def get_current_focus(self):
+        return [
+            "🔒 Post-Quantum Cryptography",
+            "🤖 Machine Learning & AI",
+            "⛓️ Web3 & Blockchain",
+            "🛡️ Secure System Architecture",
+            "💻 Full Stack Development"
+        ]
 ```
+
+</td>
+<td width="50%">
+
+### 📚 Currently Learning
+```javascript
+const learning = {
+    advanced: [
+        "🧠 Advanced ML Algorithms",
+        "🔐 Quantum-Resistant Security",
+        "☁️ Cloud Native Architecture",
+        "🎭 Zero-Knowledge Proofs"
+    ],
+    experimenting: [
+        "Web3 Development",
+        "Distributed Systems",
+        "MLOps & Production ML"
+    ]
+};
+```
+
+### 🎯 2026 Goals
+- [ ] 🌟 Contribute to 100+ open source projects
+- [ ] 🏗️ Master distributed systems
+- [ ] 🤖 Build production-grade AI applications
+- [ ] 📝 Publish research in cryptography
+- [ ] 🚀 Launch a major security tool
+
+### 🎮 When I'm Not Coding
+🖥️ **Coding** (yes, even for fun!) • 🏴‍☠️ **CTF Competitions** • ✍️ **Tech Blogging** • 🌟 **Open Source** • 🎯 **Hackathons**
+
+</td>
+</tr>
+</table>
 
 <br clear="both"/>
 
 ---
 
-## 🔥 MAJOR ACHIEVEMENT
+## 🔥 WHAT I'M BUILDING
 
 <div align="center">
 
-### 🛡️ Post-Quantum Secure Exchange Framework
-[![Project](https://img.shields.io/badge/Cyberbee--pro-Post--Quantum--Framework-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberbee-pro/Post-quantum-secure-exchange-framework)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00FF41?style=for-the-badge)
-![Impact](https://img.shields.io/badge/Impact-CRITICAL-FF6B6B?style=for-the-badge)
+### 🔐 Security & Cryptography Research
+![Research](https://img.shields.io/badge/Research-ACTIVE-00FF41?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Post--Quantum-00D9FF?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Impact-HIGH-FF6B6B?style=for-the-badge)
 
-**Major Contributor** | Implementing quantum-resistant cryptographic protocols for secure communication in the post-quantum era
+**Working on cutting-edge cryptography projects** | Building quantum-resistant security solutions for the future
 
 <details>
-<summary><b>🔍 Click to see what this means</b></summary>
+<summary><b>🔍 What is Post-Quantum Cryptography?</b></summary>
 
 <br>
 
-> **This is cutting-edge security research** that protects against future quantum computer attacks. 
+> **Preparing for the quantum computing era** 
 > 
-> Just like GitHub deployed post-quantum SSH in 2025, this project implements similar quantum-resistant algorithms (NTRU Prime, Kyber) to secure key exchange protocols. This work addresses the "store now, decrypt later" threat where adversaries collect encrypted data today to decrypt when quantum computers become powerful enough.
+> Post-quantum cryptography develops encryption methods that remain secure even against attacks from future quantum computers. As quantum computing advances, traditional encryption (RSA, ECC) becomes vulnerable. PQC uses mathematics-based approaches like lattice-based cryptography, hash-based signatures, and code-based schemes to ensure long-term security.
 
-**Key Contributions:**
-- 🔐 Implemented lattice-based key exchange mechanisms
-- 🛡️ Designed secure protocols resistant to quantum attacks  
-- 🚀 Optimized performance for production environments
-- 📊 Contributed to NIST-standardized PQC algorithms
+**Why It Matters:**
+- 🔐 Protects against "harvest now, decrypt later" attacks
+- 🛡️ Future-proofs sensitive communications and data
+- 🚀 Essential for long-term security infrastructure
+- 📊 Aligned with NIST standardization (2024-2025)
 
-**Technologies:** Python, Cryptography, NTRU Prime, Kyber, Zero-Knowledge Proofs
+**My Focus Areas:**
+- Lattice-based key exchange mechanisms (NTRU Prime, Kyber)
+- Zero-knowledge proof systems
+- Secure protocol design and implementation
+- Performance optimization for production systems
+
+**Technologies:** Python, Cryptography Libraries, Mathematical Algorithms, Security Protocols
 
 </details>
 
@@ -198,29 +241,29 @@ hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍�
 <tr>
 <td width="50%">
 
-### 🔐 Post-Quantum Cryptography
-[![Post-Quantum Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cyberbee-pro&repo=Post-quantum-secure-exchange-framework&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff&show_owner=true)](https://github.com/Cyberbee-pro/Post-quantum-secure-exchange-framework)
-
-</td>
-<td width="50%">
-
 ### 🤖 Alphabet Detection ML
 [![Alphabet Detection](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Alphabet-Detection&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Alphabet-Detection)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🔒 Random Encryption
 [![Random Encryption](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Random-Encryption&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Random-Encryption)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🔍 Web Search Engine
 [![Web Search](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Web_Search&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Web_Search)
+
+</td>
+<td width="50%">
+
+### 🏥 Medical Project
+[![Medical Project](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Project_Medical&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Project_Medical)
 
 </td>
 </tr>
@@ -228,14 +271,14 @@ hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍�
 <tr>
 <td width="50%">
 
-### 🏥 Medical Project
-[![Medical Project](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Project_Medical&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Project_Medical)
+### 🗺️ Map API Integration
+[![Map API](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Map-api&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Map-api)
 
 </td>
 <td width="50%">
 
-### 🗺️ Map API Integration
-[![Map API](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Map-api&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Map-api)
+### 🌐 Web Design Projects
+[![Web Design](https://github-readme-stats.vercel.app/api/pin/?username=Anchitlahkar&repo=Web_designe&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=00d9ff)](https://github.com/Anchitlahkar/Web_designe)
 
 </td>
 </tr>
@@ -276,7 +319,7 @@ hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1960766c6b7c74787075597c61787469757c377a7674">[email&#160;protected]</a>)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
@@ -300,31 +343,26 @@ hobbies: ["Coding 💻", "Cybersecurity CTFs 🏴‍☠️", "Tech Blogging ✍�
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## 📊 DETAILED STATS
 
 <div align="center">
-
-<a href="https://github.com/Anchitlahkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchitlahkar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=00d9ff&border_radius=10"/>
-</a>
-
+  <sub>⚠️ <i>If the snake animation doesn't appear, it means the GitHub Actions workflow needs to be set up. Check the setup guide for instructions.</i></sub>
 </div>
 
 ---
 
-## 💻 CODING ACTIVITY
+## 📊 WEEKLY DEVELOPMENT BREAKDOWN
 
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 <!--END_SECTION:waka-->
+
+<sub>💡 <i>Connect with WakaTime to see your weekly coding stats here!</i></sub>
 
 </div>
 
@@ -374,7 +412,7 @@ mindmap
 ![](https://hit.yhype.me/github/profile?user_id=64302945)
 
 **📫 How to reach me:**
-- Email: your.email@example.com
+- Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7900160c0b571c14181015391c01181409151c571a1614">[email&#160;protected]</a>
 - LinkedIn: [/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
@@ -407,6 +445,4 @@ mindmap
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+build+together!+%F0%9F%9A%80;Always+open+to+collaborations!+%F0%9F%A4%9D)
-
-</div>
+![Typing SVG](htt
