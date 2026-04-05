@@ -261,7 +261,7 @@ graph LR
 | &nbsp; | Achievement | Venue | Year |
 |:---:|---|---|:---:|
 | 🏆 | **ICPC High Honor** | ICPC Asia Regional — Chennai | 2025 |
-| 🥇 | **Top 10 / 300+** | Ultron 9.0 Hackathon | 2024 |
+| 🥇 | **Top 10 / 300+** | Ultron 9.0 Hackathon | 2026 |
 | 🔬 | **Undergraduate Researcher** | SRMIST — Quantum Optimization | Active |
 
 </div>
@@ -288,7 +288,6 @@ graph LR
 ---
 
 <!-- ████████████████████████ FOOTER ████████████████████████ -->
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d9ff,40:002040,80:001020,100:060d18&amp;height=130&amp;section=footer&amp;animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d9ff,100:060d18&amp;height=130&amp;section=footer&amp;animation=fadeIn"/>
 </div>
