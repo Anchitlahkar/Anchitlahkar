@@ -4,14 +4,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=16&amp;pause=1400&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=B.Tech+CSE+%40+SRMIST+Kattankulathur+%E2%80%94+CGPA+9.0;Undergraduate+Researcher+%7C+Quantum+Optimization;Post-Quantum+Cryptography+Contributor;Building+QHack+%C2%B7+PipeSight+%C2%B7+Cyberbee-pro;ICPC+High+Honor+%E2%80%94+Chennai+2025" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=16&amp;pause=1400&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=B.Tech+CSE+%40+SRMIST+Kattankulathur+%E2%80%94+CGPA+9.6;Undergraduate+Researcher+%7C+Quantum+Optimization;Post-Quantum+Cryptography+Contributor;Building+QHack+%C2%B7+PipeSight+%C2%B7+QX-Secure;ICPC+High+Honor+%E2%80%94+Chennai+2025" alt="roles" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![CGPA](https://img.shields.io/badge/CGPA-9.0%20%2F%2010-00d9ff?style=flat-square&labelColor=060d18&color=00d9ff)](https://github.com/Anchitlahkar)&ensp;[![ICPC](https://img.shields.io/badge/ICPC-High%20Honor%20%E2%80%94%20Chennai%202025-00ff88?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Status](https://img.shields.io/badge/Status-Building-ff6b6b?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Views](https://komarev.com/ghpvc/?username=Anchitlahkar&label=Profile+Views&color=7aebff&style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
+[![CGPA](https://img.shields.io/badge/CGPA-9.6%20%2F%2010-00d9ff?style=flat-square&labelColor=060d18&color=00d9ff)](https://github.com/Anchitlahkar)&ensp;[![ICPC](https://img.shields.io/badge/ICPC-High%20Honor%20%E2%80%94%20Chennai%202025-00ff88?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Status](https://img.shields.io/badge/Status-Building-ff6b6b?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Views](https://komarev.com/ghpvc/?username=Anchitlahkar&label=Profile+Views&color=7aebff&style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
 
 </div>
 
