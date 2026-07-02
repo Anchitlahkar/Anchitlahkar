@@ -277,7 +277,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-060d18?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/anchit-lahkar)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-060d18?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Anchitlahkar)&nbsp;
 [![Email](https://img.shields.io/badge/Email-060d18?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:anchitlahkar0202@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-060d18?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://attached-assets--anchit-l.replit.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-060d18?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://anchitlahkar.vercel.com)
 
 <br/>
 
