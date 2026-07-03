@@ -1,293 +1,416 @@
-<!-- ████████████████████████ HEADER ████████████████████████ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:060d18,40:001020,80:002040,100:00d9ff&amp;height=260&amp;section=header&amp;text=ANCHIT%20LAHKAR&amp;fontSize=82&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=%E2%9C%A6%20%20quantum%20%C2%B7%20security%20%C2%B7%20systems%20%C2%B7%20research%20%20%E2%9C%A6&amp;descSize=17&amp;descAlignY=65&amp;descColor=00d9ff"/>
-</div>
+<!-- ░▒▓█ HEADER █▓▒░ -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&text=Anchit%20Lahkar&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Quantum%20ML%20%C2%B7%20Post-Quantum%20Security%20%C2%B7%20Full-Stack&descSize=20&descAlignY=60&animation=fadeIn" alt="Anchit Lahkar header"/>
+</a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=16&amp;pause=1400&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=B.Tech+CSE+%40+SRMIST+Kattankulathur+%E2%80%94+CGPA+9.8;Undergraduate+Researcher+%7C+Quantum+Optimization;Post-Quantum+Cryptography+Contributor;Building+QHack+%C2%B7+PipeSight+%C2%B7+QX-Secure;ICPC+High+Honor+%E2%80%94+Chennai+2025" alt="roles" />
+
+<a href="https://github.com/Anchitlahkar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF2EC4&center=true&vCenter=true&width=680&height=60&lines=B.Tech+CSE+%40+SRMIST+%7C+CGPA+9.8%2F10;Undergraduate+Research+Assistant+in+Quantum+ML;Building+at+the+edge+of+quantum+%26+security;from+Guwahati+%E2%86%92+Chennai" alt="Typing intro"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google_Prompt_Wars-Top_2%25-ff2ec4?style=for-the-badge&labelColor=1a0533&logo=google&logoColor=white" alt="Prompt Wars"/>
+<img src="https://img.shields.io/badge/CGPA-9.8%2F10-b026ff?style=for-the-badge&labelColor=1a0533&logo=academia&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/ICPC-High_Honor-ff9e00?style=for-the-badge&labelColor=1a0533&logo=codeforces&logoColor=white" alt="ICPC"/>
+<img src="https://komarev.com/ghpvc/?username=Anchitlahkar&label=PROFILE+VIEWS&color=ff2ec4&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 <br/>
 
+<!-- ◢◤ ABOUT ◢◤ -->
 <div align="center">
 
-[![CGPA](https://img.shields.io/badge/CGPA-9.8%20%2F%2010-00d9ff?style=flat-square&labelColor=060d18&color=00d9ff)](https://github.com/Anchitlahkar)&ensp;[![ICPC](https://img.shields.io/badge/ICPC-High%20Honor%20%E2%80%94%20Chennai%202025-00ff88?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Status](https://img.shields.io/badge/Status-Building-ff6b6b?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)&ensp;[![Views](https://komarev.com/ghpvc/?username=Anchitlahkar&label=Profile+Views&color=7aebff&style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
+## ◢◤ ▓ NEON.INIT() — whoami ▓ ◥◣
 
 </div>
-
-<br/>
-
----
-
-<!-- ████████████████████████ IDENTITY ████████████████████████ -->
-
-## `> IDENTITY`
 
 <table>
 <tr>
-<td width="58%">
+<td width="52%" valign="top">
 
-```python
-class AnchitLahkar:
-
-    # ─── Core ────────────────────────────────
-    university = "SRMIST Kattankulathur"
-    degree     = "B.Tech CSE  (2025 – 2029)"
-    cgpa       = 9.8
-    location   = "Guwahati, Assam  🇮🇳"
-
-    # ─── Research ────────────────────────────
-    lab        = "Quantum-Inspired Optimization"
-    topic      = "Protein Folding via QAOA"
-    advisor    = "Dr. Manju A."
-    pipeline   = ["Qiskit", "PyRosetta", "QAOA",
-                  "Simulated Annealing"]
-
-    # ─── Stack ───────────────────────────────
-    stack      = ["Python", "TypeScript", "Next.js",
-                  "React", "FastAPI", "TailwindCSS",
-                  "Zustand", "Qiskit"]
-
-    # ─── Honors ──────────────────────────────
-    honors     = {
-        "ICPC High Honor"  : "Chennai 2025",
-        "Ultron 9.0"       : "Top 10 / 300+",
-    }
+```yaml
+anchit_lahkar:
+  role: Undergraduate Research Assistant
+  focus: Quantum Machine Learning
+  degree: B.Tech CSE
+  university: SRM Institute of Science and Technology
+  campus: Kattankulathur (KTR)
+  batch: 2025 - 2029
+  cgpa: 9.8 / 10
+  nirf_rank: 11
+  origin: Guwahati, Assam
+  based_in: Chennai, India
+  current_lab: Variational Quantum Circuits
+  currently_learning:
+    - Qiskit Runtime
+    - Quantum Error Mitigation
+    - LangChain
+  motto: "Ship fast, benchmark harder."
 ```
 
 </td>
-<td width="42%" align="center">
+<td width="48%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anchitlahkar&amp;theme=black-ice&amp;hide_border=true&amp;stroke=00000000&amp;background=060d18&amp;ring=00d9ff&amp;fire=00ff88&amp;currStreakLabel=00d9ff&amp;border_radius=10&amp;sideNums=7aebff&amp;currStreakNum=ffffff&amp;dates=444c56" width="100%"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&count_private=true&hide_border=true&title_color=ff2ec4&text_color=2de2e6&icon_color=ff9e00&bg_color=0d0221&ring_color=b026ff" alt="GitHub stats"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/Anchitlahkar?style=flat-square&label=Total%20Stars&color=00d9ff&labelColor=060d18)](https://github.com/Anchitlahkar)&nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnchitlahkar&query=public_repos&style=flat-square&label=Public%20Repos&color=00ff88&labelColor=060d18)](https://github.com/Anchitlahkar?tab=repositories)&nbsp;
-[![Followers](https://img.shields.io/github/followers/Anchitlahkar?style=flat-square&label=Followers&color=7aebff&labelColor=060d18)](https://github.com/Anchitlahkar)
+<!-- ▓▒░ PROJECTS ░▒▓ -->
+<div align="center">
 
-</td>
-</tr>
-</table>
+## ▓ ◤ FEATURED_BUILDS[] ◥ ▓
 
----
+<em>Seven signals from the grid — quantum, security, and the full stack.</em>
 
-<!-- ████████████████████████ BUILDS ████████████████████████ -->
-
-## `> ACTIVE BUILDS`
+<br/>
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
-<div align="center">
+### ◈ CarbonSense
+AI carbon-footprint platform — TERRA AI coach on Gemini 1.5 Flash, a 3D Planet Twin in React Three Fiber, receipt OCR, deterministic TS carbon math, 258 unit tests.
 
-**⬡ &nbsp; Q H A C K**
+<img src="https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=2de2e6"/>
+<img src="https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=b026ff"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_Top_2%25_Prompt_Wars-ff2ec4?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://github.com/Anchitlahkar/CarbonSense"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
 
-</div>
-
-Quantum Circuit Simulator with a **Quantum Noir** UI. Custom SVG canvas, 15-gate system, animated Bloch sphere, and real-time simulation flow.
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-060d18?style=flat-square&logo=nextdotjs&logoColor=00d9ff)
-![React](https://img.shields.io/badge/React-060d18?style=flat-square&logo=react&logoColor=00d9ff)
-![Zustand](https://img.shields.io/badge/Zustand-060d18?style=flat-square&logo=react&logoColor=00d9ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-060d18?style=flat-square&logo=fastapi&logoColor=00d9ff)
-![Qiskit](https://img.shields.io/badge/Qiskit-060d18?style=flat-square&logo=ibm&logoColor=00d9ff)
-
-[![status](https://img.shields.io/badge/●%20IN%20PROGRESS-00d9ff?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
-
-</div>
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
-<div align="center">
+### ◈ QHack Quantum Lab
+Full-stack quantum circuit workbench — 20+ gates, Qiskit Aer backend streamed over WebSocket, Bloch-sphere playback, circuit comparison via Bhattacharyya coefficient.
 
-**⬡ &nbsp; P I P E S I G H T**
+<img src="https://img.shields.io/badge/Qiskit-1a0533?style=flat-square&logo=qiskit&logoColor=b026ff"/>
+<img src="https://img.shields.io/badge/WebSocket-1a0533?style=flat-square&logo=socketdotio&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=2de2e6"/>
+<br/>
+<img src="https://img.shields.io/badge/%E2%9A%9B_Live_Workbench-ff9e00?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://qinsight-sigma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-ff2ec4?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-</div>
-
-ESP32 hardware system for **non-invasive corrosion detection** using 40 kHz ultrasonic transducers and IRLZ44N MOSFET driver circuits.
-
-<div align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-060d18?style=flat-square&logo=espressif&logoColor=00d9ff)
-![C++](https://img.shields.io/badge/C++-060d18?style=flat-square&logo=cplusplus&logoColor=00d9ff)
-![Signal](https://img.shields.io/badge/Signal%20Processing-060d18?style=flat-square&logoColor=00d9ff)
-![Power](https://img.shields.io/badge/Power%20Electronics-060d18?style=flat-square&logoColor=00d9ff)
-
-[![status](https://img.shields.io/badge/●%20HARDWARE%20PHASE-ff6b6b?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
-
-</div>
 </td>
+</tr>
 
-<td width="33%" valign="top">
-<div align="center">
+<tr>
+<td width="50%" valign="top">
 
-**⬡ &nbsp; QX-SECURE**
+### ◈ QSecureX
+Post-quantum file exchange — Kyber768 + ML-DSA-44 (liboqs), AES-256-GCM, resumable chunked uploads, PyQt6 desktop GUI.
 
-</div>
+<img src="https://img.shields.io/badge/liboqs-1a0533?style=flat-square&logo=keycdn&logoColor=b026ff"/>
+<img src="https://img.shields.io/badge/PyQt6-1a0533?style=flat-square&logo=qt&logoColor=2de2e6"/>
+<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=ff9e00"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_Ultron_9.0_Top_10-ff2ec4?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://github.com/Anchitlahkar/QSecureX"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
 
-Post-quantum cryptography implementation — **lattice-based key exchange**, quantum-resistant protocol design, aligned with NIST PQC standards.
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-060d18?style=flat-square&logo=python&logoColor=00d9ff)
-![Lattice](https://img.shields.io/badge/Lattice%20Math-060d18?style=flat-square&logoColor=00d9ff)
-![NIST](https://img.shields.io/badge/NIST%20PQC-060d18?style=flat-square&logoColor=00d9ff)
-![Kyber](https://img.shields.io/badge/Kyber%2FNTRU-060d18?style=flat-square&logoColor=00d9ff)
-
-[![status](https://img.shields.io/badge/●%20ACTIVE-00ff88?style=flat-square&labelColor=060d18)](https://github.com/Anchitlahkar)
-
-</div>
 </td>
+<td width="50%" valign="top">
 
+### ◈ Alpha-Forge
+Zero-infra research-intelligence pipeline — RSS scanning, Gemini scoring via weighted signal formula, Pydantic validation, glassmorphism dashboard on GitHub Pages, Telegram delivery.
+
+<img src="https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/Pydantic-1a0533?style=flat-square&logo=pydantic&logoColor=2de2e6"/>
+<img src="https://img.shields.io/badge/Telegram-1a0533?style=flat-square&logo=telegram&logoColor=b026ff"/>
+<br/>
+<img src="https://img.shields.io/badge/%E2%9A%A1_Serverless-ff9e00?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://github.com/Anchitlahkar/Alpha-Forge"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ ForkCast
+Realtime multiplayer restaurant-voting app — Next.js 15, Firestore transactions, Google Places, swipe gestures.
+
+<img src="https://img.shields.io/badge/Next.js_15-1a0533?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firestore-1a0533?style=flat-square&logo=firebase&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/Google_Places-1a0533?style=flat-square&logo=googlemaps&logoColor=2de2e6"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Ship_In_A_Day-ff2ec4?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://github.com/Anchitlahkar/ForkCast"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://forkcast-iota.vercel.app"><img src="https://img.shields.io/badge/Live-ff9e00?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Frame2Scene
+Photogrammetry pipeline — FFmpeg frame extraction → COLMAP dense reconstruction → custom C++/Raylib point-cloud viewer.
+
+<img src="https://img.shields.io/badge/C++-1a0533?style=flat-square&logo=cplusplus&logoColor=b026ff"/>
+<img src="https://img.shields.io/badge/COLMAP-1a0533?style=flat-square&logo=opencv&logoColor=2de2e6"/>
+<img src="https://img.shields.io/badge/FFmpeg-1a0533?style=flat-square&logo=ffmpeg&logoColor=ff9e00"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%93%B7_3D_Reconstruction-ff9e00?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://github.com/Anchitlahkar/Frame2Scene"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Dreams Creation
+Production website for a 3-branch preschool (220+ students) — Next.js SSR, GSAP motion.
+
+<img src="https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-1a0533?style=flat-square&logo=greensock&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/SSR-1a0533?style=flat-square&logo=vercel&logoColor=2de2e6"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_In_Production-ff2ec4?style=flat-square&labelColor=1a0533"/>
+<br/>
+<a href="https://dreamscreation.vercel.app"><img src="https://img.shields.io/badge/Live-ff9e00?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ More on the grid
+The signal keeps building — quantum tooling, security primitives, and web experiments ship regularly.
+
+<br/>
+
+<a href="https://github.com/Anchitlahkar?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repos-7209b7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
+
+</td>
 </tr>
 </table>
 
----
+</div>
 
-<!-- ████████████████████████ TECH STACK ████████████████████████ -->
+<br/>
 
-## `> ARSENAL`
-
+<!-- ░▒▓ RESEARCH ▓▒░ -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,tailwind,fastapi,cpp,git,linux,vscode&amp;theme=dark&amp;perline=10" />
+## ⟢ RESEARCH_SPOTLIGHT ⟣
+
+</div>
+
+<table>
+<tr>
+<td valign="top">
+
+> **Variational Quantum Circuits for Forest-Fire Detection**
+> Undergraduate Research Assistant · Jan 2026 – present · SRMIST
+> Advisor: **Dr. Manju A**
+
+Building binary classifiers for early forest-fire detection using **Variational Quantum Circuits** in **PennyLane**, benchmarked head-to-head against **Logistic Regression** and **Random Forest** baselines. Current line of investigation: the trade-offs between **amplitude encoding** and **angle encoding** — where each wins on expressivity, depth, and trainability.
+
+<img src="https://img.shields.io/badge/PennyLane-1a0533?style=flat-square&logoColor=ff9e00"/>
+<img src="https://img.shields.io/badge/Variational_Quantum_Circuits-1a0533?style=flat-square&logoColor=b026ff"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1a0533?style=flat-square&logo=scikitlearn&logoColor=2de2e6"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ▓ STACK ▓ -->
+<div align="center">
+
+## ◤ STACK.dll — loaded modules ◥
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,react,nextjs,nodejs,fastapi,flask&theme=dark" alt="Skill icons row 1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,mysql,firebase,supabase,vercel,githubactions,git&theme=dark" alt="Skill icons row 2"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="20%"><sub><b>Languages</b></sub><br/>Python · TypeScript · C++</td>
-<td align="center" width="20%"><sub><b>Frontend</b></sub><br/>React · Next.js · Tailwind · Zustand</td>
-<td align="center" width="20%"><sub><b>Backend</b></sub><br/>FastAPI</td>
-<td align="center" width="20%"><sub><b>Quantum</b></sub><br/>Qiskit · PyRosetta · NumPy</td>
-<td align="center" width="20%"><sub><b>Hardware</b></sub><br/>ESP32 · C++ · Ultrasonic DSP</td>
+<td align="center"><b>◈ Languages</b></td>
+<td>Python · JavaScript · TypeScript · C++ · Java</td>
+</tr>
+<tr>
+<td align="center"><b>◈ Web / API</b></td>
+<td>React · Next.js · Node.js · FastAPI · Flask</td>
+</tr>
+<tr>
+<td align="center"><b>◈ Quantum</b></td>
+<td>PennyLane · Qiskit</td>
+</tr>
+<tr>
+<td align="center"><b>◈ AI / ML</b></td>
+<td>Scikit-Learn · OpenCV · TensorFlow · PyTorch · Gemini API</td>
+</tr>
+<tr>
+<td align="center"><b>◈ Data</b></td>
+<td>MySQL · Firebase · Supabase</td>
+</tr>
+<tr>
+<td align="center"><b>◈ DevOps</b></td>
+<td>Vercel · GitHub Actions · CI/CD</td>
+</tr>
+<tr>
+<td align="center"><b>◈ Learning</b></td>
+<td>Qiskit Runtime · Quantum Error Mitigation · LangChain</td>
 </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-<!-- ████████████████████████ RESEARCH ████████████████████████ -->
-
-## `> RESEARCH`
-
+<!-- ▓ ACHIEVEMENTS ▓ -->
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│   QUANTUM-INSPIRED OPTIMIZATION FOR PROTEIN FOLDING                         │
-│   Undergraduate Research · SRMIST · Advisor: Dr. Manju A.                   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+## ⚡ TROPHY_CACHE — high scores ⚡
+
+<table>
+<tr>
+<th>Achievement</th>
+<th>Detail</th>
+<th>When</th>
+</tr>
+<tr>
+<td>🏆 <b>Google Prompt Wars 2026</b></td>
+<td>Rank #727 / 35,548 — <b>Top 2%</b> for CarbonSense</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>🥇 <b>ICPC — High Honor</b></td>
+<td>Chennai Regional</td>
+<td>Nov 2025</td>
+</tr>
+<tr>
+<td>🚀 <b>Ultron 9.0 Hackathon</b></td>
+<td>Top 10 / 300+ teams — led team, shipped QSecureX</td>
+<td>Jan 2026</td>
+</tr>
+<tr>
+<td>🥉 <b>Ship In a Day Buildathon</b></td>
+<td>3rd place — ForkCast</td>
+<td>Mar 2026</td>
+</tr>
+</table>
 
 </div>
-
-Modelling protein **conformational energy landscapes** using hybrid classical–quantum pipelines. Benchmarks classical **Simulated Annealing** against **QAOA** (Quantum Approximate Optimization Algorithm) implemented in Qiskit, with **PyRosetta** for energy scoring.
-
-<div align="center">
-
-`Combinatorial Optimization` &nbsp;·&nbsp; `Variational Quantum Algorithms` &nbsp;·&nbsp; `Energy Landscape Traversal` &nbsp;·&nbsp; `Hybrid Pipelines`
-
-</div>
-
----
-
-<!-- ████████████████████████ FOCUS MAP ████████████████████████ -->
-
-## `> FOCUS MAP`
-
-```mermaid
-graph LR
-    A(["⬡  Anchit Lahkar"]):::root
-
-    A --> B["🔬 Quantum Research"]
-    B --> B1["Protein Folding · QAOA"]
-    B --> B2["Variational Algorithms"]
-
-    A --> C["🔐 Security"]
-    C --> C1["Post-Quantum Crypto"]
-    C --> C2["Lattice-Based Schemes"]
-
-    A --> D["💻 Full Stack"]
-    D --> D1["QHack Simulator"]
-    D --> D2["Next.js · FastAPI"]
-
-    A --> E["⚙️ Hardware"]
-    E --> E1["PipeSight · ESP32"]
-    E --> E2["Ultrasonic DSP"]
-
-    classDef root fill:#001a35,stroke:#00d9ff,stroke-width:2px,color:#00d9ff
-    classDef default fill:#060d18,stroke:#00d9ff44,color:#7aebff
-```
-
----
-
-<!-- ████████████████████████ STATS ████████████████████████ -->
-
-## `> METRICS`
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anchitlahkar&amp;theme=black-ice&amp;hide_border=true&amp;stroke=00000000&amp;background=060d18&amp;ring=00d9ff&amp;fire=00ff88&amp;currStreakLabel=00d9ff&amp;border_radius=10&amp;sideNums=7aebff&amp;currStreakNum=ffffff&amp;dates=444c56" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=060d18&amp;color=00d9ff&amp;line=00d9ff&amp;point=ffffff&amp;area=true&amp;border_radius=10" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Anchitlahkar&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=6" />
-</div>
-
----
-
-<!-- ████████████████████████ SNAKE ████████████████████████ -->
-
-## `> CONTRIBUTION TRACE`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-</div>
-
----
-
-<!-- ████████████████████████ HONORS ████████████████████████ -->
-
-## `> HONORS`
-
-<div align="center">
-
-| &nbsp; | Achievement | Venue | Year |
-|:---:|---|---|:---:|
-| 🏆 | **ICPC High Honor** | ICPC Asia Regional — Chennai | 2025 |
-| 🥇 | **Top 10 / 300+** | Ultron 9.0 Hackathon | 2026 |
-| 🔬 | **Undergraduate Researcher** | SRMIST — Quantum Optimization | Active |
-
-</div>
-
----
-
-<!-- ████████████████████████ CONNECT ████████████████████████ -->
-
-## `> REACH ME`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060d18?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com/in/anchit-lahkar)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-060d18?style=for-the-badge&logo=github&logoColor=00d9ff)](https://github.com/Anchitlahkar)&nbsp;
-[![Email](https://img.shields.io/badge/Email-060d18?style=for-the-badge&logo=gmail&logoColor=00d9ff)](mailto:anchitlahkar0202@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-060d18?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://anchitlahkar.vercel.app)
 
 <br/>
 
-<sub><code>open to research collaborations · internships · open source</code></sub>
-
-</div>
-
----
-
-<!-- ████████████████████████ FOOTER ████████████████████████ -->
+<!-- ░▒▓█ DYNAMIC ZONE █▓▒░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d9ff,100:060d18&amp;height=130&amp;section=footer&amp;animation=fadeIn"/>
+
+## ▓▒░ THE_GRID — live telemetry ░▒▓
+
+<br/>
+
+<!-- Pacman contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph.svg"/>
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph-dark.svg"/>
+</picture>
+
+<br/><br/>
+
+<!-- 3D contribution graph -->
+<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+
+<br/><br/>
+
+<!-- Metrics -->
+<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-metrics.svg" alt="GitHub metrics"/>
+
+<br/><br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Anchitlahkar&theme=highcontrast&hide_border=true&background=0d0221&ring=ff2ec4&fire=ff9e00&currStreakLabel=ff2ec4&sideLabels=2de2e6&currStreakNum=ffffff&sideNums=ffffff&dates=b026ff" alt="GitHub streak"/>
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&bg_color=0d0221&color=ff2ec4&line=b026ff&point=ff9e00&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Anchitlahkar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+
 </div>
+
+<br/>
+
+<!-- ▓ DOMAIN MAP ▓ -->
+<div align="center">
+
+## ◢◤ DOMAIN_MAP.mmd ◥◣
+
+</div>
+
+```mermaid
+graph TD
+    ROOT["Anchit Lahkar"]:::root
+
+    ROOT --> QML["Quantum ML"]:::quantum
+    ROOT --> SEC["PQC / Security"]:::security
+    ROOT --> WEB["Full-Stack"]:::web
+    ROOT --> WIN["Achievements"]:::wins
+
+    QML --> Q1["Variational Quantum Circuits"]:::quantum
+    QML --> Q2["PennyLane / Qiskit"]:::quantum
+    QML --> Q3["Amplitude vs Angle Encoding"]:::quantum
+
+    SEC --> S1["Kyber768 + ML-DSA-44"]:::security
+    SEC --> S2["AES-256-GCM"]:::security
+    SEC --> S3["QSecureX"]:::security
+
+    WEB --> W1["React / Next.js"]:::web
+    WEB --> W2["FastAPI / Flask"]:::web
+    WEB --> W3["CarbonSense / ForkCast"]:::web
+
+    WIN --> A1["Prompt Wars Top 2%"]:::wins
+    WIN --> A2["ICPC High Honor"]:::wins
+    WIN --> A3["Ultron 9.0 Top 10"]:::wins
+
+    classDef root fill:#0d0221,stroke:#ff2ec4,stroke-width:3px,color:#ffffff;
+    classDef quantum fill:#1a0533,stroke:#b026ff,stroke-width:2px,color:#b026ff;
+    classDef security fill:#1a0533,stroke:#2de2e6,stroke-width:2px,color:#2de2e6;
+    classDef web fill:#1a0533,stroke:#ff2ec4,stroke-width:2px,color:#ff2ec4;
+    classDef wins fill:#1a0533,stroke:#ff9e00,stroke-width:2px,color:#ff9e00;
+```
+
+<br/>
+
+<!-- ▓ CONNECT ▓ -->
+<div align="center">
+
+## ⟢ ESTABLISH_CONNECTION() ⟣
+
+<a href="https://linkedin.com/in/anchit-lahkar">
+  <img src="https://img.shields.io/badge/LinkedIn-ff2ec4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" alt="LinkedIn"/>
+</a>
+<a href="mailto:anchitlahkar0202@gmail.com">
+  <img src="https://img.shields.io/badge/Email-b026ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" alt="Email"/>
+</a>
+<a href="https://anchitlahkar.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-ff9e00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0533" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<em>「 Ship fast. Benchmark harder. Encode everything. 」</em>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" alt="footer"/>
