@@ -344,8 +344,8 @@ Building binary classifiers for early forest-fire detection using **Variational 
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Anchitlahkar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+<!-- Achievements (self-generated, replaces flaky trophy service) -->
+<img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-achievements.svg" alt="GitHub achievements"/>
 
 </div>
 
@@ -413,4 +413,4 @@ graph TD
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" a
