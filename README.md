@@ -413,4 +413,4 @@ graph TD
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" a
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" alt="footer"/>
