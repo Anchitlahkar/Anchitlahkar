@@ -54,7 +54,7 @@ anchit_lahkar:
 </td>
 <td width="48%" valign="top">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Anchitlahkar&show_icons=true&count_private=true&hide_border=true&title_color=ff2ec4&text_color=2de2e6&icon_color=ff9e00&bg_color=0d0221&ring_color=b026ff" alt="GitHub stats"/>
+<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/refs/heads/masters/github-stats-card.svg" alt="GitHub stats"/>
 
 </td>
 </tr>
@@ -345,7 +345,7 @@ Building binary classifiers for early forest-fire detection using **Variational 
 <br/><br/>
 
 <!-- Achievements (self-generated, replaces flaky trophy service) -->
-<img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-achievements.svg" alt="GitHub achievements"/>
+<img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/refs/heads/masters/github-achievements.svg" alt="GitHub achievements"/>
 
 </div>
 
