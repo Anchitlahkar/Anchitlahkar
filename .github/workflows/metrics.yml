@@ -28,20 +28,6 @@ jobs:
           output_action: commit
           filename: github-metrics.svg
 
-      - name: Generate achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Anchitlahkar
-          template: classic
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          committer_branch: masters
-          output_action: commit
-          filename: github-achievements.svg
 
       - name: Generate stats card
         uses: lowlighter/metrics@latest
