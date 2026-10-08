@@ -1,412 +1,173 @@
-<!-- ░▒▓█ HEADER █▓▒░ -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&text=Anchit%20Lahkar&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=Quantum%20ML%20%C2%B7%20Post-Quantum%20Security%20%C2%B7%20Full-Stack&descSize=20&descAlignY=60&animation=fadeIn" alt="Anchit Lahkar header"/>
-</a>
-
-<div align="center">
-
-<a href="https://github.com/Anchitlahkar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF2EC4&center=true&vCenter=true&width=680&height=60&lines=B.Tech+CSE+%40+SRMIST+%7C+CGPA+9.8%2F10;Undergraduate+Research+Assistant+in+Quantum+ML;Building+at+the+edge+of+quantum+%26+security;from+Guwahati+%E2%86%92+Chennai" alt="Typing intro"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Google_Prompt_Wars-Top_2%25-ff2ec4?style=for-the-badge&labelColor=1a0533&logo=google&logoColor=white" alt="Prompt Wars"/>
-<img src="https://img.shields.io/badge/CGPA-9.8%2F10-b026ff?style=for-the-badge&labelColor=1a0533&logo=academia&logoColor=white" alt="CGPA"/>
-<img src="https://img.shields.io/badge/ICPC-High_Honor-ff9e00?style=for-the-badge&labelColor=1a0533&logo=codeforces&logoColor=white" alt="ICPC"/>
-<img src="https://komarev.com/ghpvc/?username=Anchitlahkar&label=PROFILE+VIEWS&color=ff2ec4&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
-<br/>
-
-<!-- ◢◤ ABOUT ◢◤ -->
-<div align="center">
-
-## ◢◤ ▓ NEON.INIT() — whoami ▓ ◥◣
-
-</div>
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-```yaml
-anchit_lahkar:
-  role: Undergraduate Research Assistant
-  focus: Quantum Machine Learning
-  degree: B.Tech CSE
-  university: SRM Institute of Science and Technology
-  campus: Kattankulathur (KTR)
-  batch: 2025 - 2029
-  cgpa: 9.8 / 10
-  nirf_rank: 11
-  origin: Guwahati, Assam
-  based_in: Chennai, India
-  current_lab: Variational Quantum Circuits
-  currently_learning:
-    - Qiskit Runtime
-    - Quantum Error Mitigation
-    - LangChain
-  motto: "Ship fast, benchmark harder."
-```
-
-</td>
-<td width="48%" valign="top">
-
-<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/refs/heads/masters/github-stats-card.svg" alt="GitHub stats"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ▓▒░ PROJECTS ░▒▓ -->
-<div align="center">
-
-## ▓ ◤ FEATURED_BUILDS[] ◥ ▓
-
-<em>Seven signals from the grid — quantum, security, and the full stack.</em>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ CarbonSense
-AI carbon-footprint platform — TERRA AI coach on Gemini 1.5 Flash, a 3D Planet Twin in React Three Fiber, receipt OCR, deterministic TS carbon math, 258 unit tests.
-
-<img src="https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=2de2e6"/>
-<img src="https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=b026ff"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_Top_2%25_Prompt_Wars-ff2ec4?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://github.com/Anchitlahkar/CarbonSense"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ QHack Quantum Lab
-Full-stack quantum circuit workbench — 20+ gates, Qiskit Aer backend streamed over WebSocket, Bloch-sphere playback, circuit comparison via Bhattacharyya coefficient.
-
-<img src="https://img.shields.io/badge/Qiskit-1a0533?style=flat-square&logo=qiskit&logoColor=b026ff"/>
-<img src="https://img.shields.io/badge/WebSocket-1a0533?style=flat-square&logo=socketdotio&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=2de2e6"/>
-<br/>
-<img src="https://img.shields.io/badge/%E2%9A%9B_Live_Workbench-ff9e00?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://qinsight-sigma.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-ff2ec4?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ QSecureX
-Post-quantum file exchange — Kyber768 + ML-DSA-44 (liboqs), AES-256-GCM, resumable chunked uploads, PyQt6 desktop GUI.
-
-<img src="https://img.shields.io/badge/liboqs-1a0533?style=flat-square&logo=keycdn&logoColor=b026ff"/>
-<img src="https://img.shields.io/badge/PyQt6-1a0533?style=flat-square&logo=qt&logoColor=2de2e6"/>
-<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=ff9e00"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%A5%87_Ultron_9.0_Top_10-ff2ec4?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://github.com/Anchitlahkar/QSecureX"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Alpha-Forge
-Zero-infra research-intelligence pipeline — RSS scanning, Gemini scoring via weighted signal formula, Pydantic validation, glassmorphism dashboard on GitHub Pages, Telegram delivery.
-
-<img src="https://img.shields.io/badge/Gemini-1a0533?style=flat-square&logo=google&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/Pydantic-1a0533?style=flat-square&logo=pydantic&logoColor=2de2e6"/>
-<img src="https://img.shields.io/badge/Telegram-1a0533?style=flat-square&logo=telegram&logoColor=b026ff"/>
-<br/>
-<img src="https://img.shields.io/badge/%E2%9A%A1_Serverless-ff9e00?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://github.com/Anchitlahkar/Alpha-Forge"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ ForkCast
-Realtime multiplayer restaurant-voting app — Next.js 15, Firestore transactions, Google Places, swipe gestures.
-
-<img src="https://img.shields.io/badge/Next.js_15-1a0533?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firestore-1a0533?style=flat-square&logo=firebase&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/Google_Places-1a0533?style=flat-square&logo=googlemaps&logoColor=2de2e6"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Ship_In_A_Day-ff2ec4?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://github.com/Anchitlahkar/ForkCast"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://forkcast-iota.vercel.app"><img src="https://img.shields.io/badge/Live-ff9e00?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Frame2Scene
-Photogrammetry pipeline — FFmpeg frame extraction → COLMAP dense reconstruction → custom C++/Raylib point-cloud viewer.
-
-<img src="https://img.shields.io/badge/C++-1a0533?style=flat-square&logo=cplusplus&logoColor=b026ff"/>
-<img src="https://img.shields.io/badge/COLMAP-1a0533?style=flat-square&logo=opencv&logoColor=2de2e6"/>
-<img src="https://img.shields.io/badge/FFmpeg-1a0533?style=flat-square&logo=ffmpeg&logoColor=ff9e00"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%93%B7_3D_Reconstruction-ff9e00?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://github.com/Anchitlahkar/Frame2Scene"><img src="https://img.shields.io/badge/Repo-b026ff?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Dreams Creation
-Production website for a 3-branch preschool (220+ students) — Next.js SSR, GSAP motion.
-
-<img src="https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-1a0533?style=flat-square&logo=greensock&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/SSR-1a0533?style=flat-square&logo=vercel&logoColor=2de2e6"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_In_Production-ff2ec4?style=flat-square&labelColor=1a0533"/>
-<br/>
-<a href="https://dreamscreation.vercel.app"><img src="https://img.shields.io/badge/Live-ff9e00?style=flat-square&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ More on the grid
-The signal keeps building — quantum tooling, security primitives, and web experiments ship regularly.
-
-<br/>
-
-<a href="https://github.com/Anchitlahkar?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repos-7209b7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ░▒▓ RESEARCH ▓▒░ -->
-<div align="center">
-
-## ⟢ RESEARCH_SPOTLIGHT ⟣
-
-</div>
-
-<table>
-<tr>
-<td valign="top">
-
-> **Variational Quantum Circuits for Forest-Fire Detection**
-> Undergraduate Research Assistant · Jan 2026 – present · SRMIST
-> Advisor: **Dr. Manju A**
-
-Building binary classifiers for early forest-fire detection using **Variational Quantum Circuits** in **PennyLane**, benchmarked head-to-head against **Logistic Regression** and **Random Forest** baselines. Current line of investigation: the trade-offs between **amplitude encoding** and **angle encoding** — where each wins on expressivity, depth, and trainability.
-
-<img src="https://img.shields.io/badge/PennyLane-1a0533?style=flat-square&logoColor=ff9e00"/>
-<img src="https://img.shields.io/badge/Variational_Quantum_Circuits-1a0533?style=flat-square&logoColor=b026ff"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-1a0533?style=flat-square&logo=scikitlearn&logoColor=2de2e6"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ▓ STACK ▓ -->
-<div align="center">
-
-## ◤ STACK.dll — loaded modules ◥
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,react,nextjs,nodejs,fastapi,flask&theme=dark" alt="Skill icons row 1"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,mysql,firebase,supabase,vercel,githubactions,git&theme=dark" alt="Skill icons row 2"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center"><b>◈ Languages</b></td>
-<td>Python · JavaScript · TypeScript · C++ · Java</td>
-</tr>
-<tr>
-<td align="center"><b>◈ Web / API</b></td>
-<td>React · Next.js · Node.js · FastAPI · Flask</td>
-</tr>
-<tr>
-<td align="center"><b>◈ Quantum</b></td>
-<td>PennyLane · Qiskit</td>
-</tr>
-<tr>
-<td align="center"><b>◈ AI / ML</b></td>
-<td>Scikit-Learn · OpenCV · TensorFlow · PyTorch · Gemini API</td>
-</tr>
-<tr>
-<td align="center"><b>◈ Data</b></td>
-<td>MySQL · Firebase · Supabase</td>
-</tr>
-<tr>
-<td align="center"><b>◈ DevOps</b></td>
-<td>Vercel · GitHub Actions · CI/CD</td>
-</tr>
-<tr>
-<td align="center"><b>◈ Learning</b></td>
-<td>Qiskit Runtime · Quantum Error Mitigation · LangChain</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ▓ ACHIEVEMENTS ▓ -->
-<div align="center">
-
-## ⚡ TROPHY_CACHE — high scores ⚡
-
-<table>
-<tr>
-<th>Achievement</th>
-<th>Detail</th>
-<th>When</th>
-</tr>
-<tr>
-<td>🏆 <b>Google Prompt Wars 2026</b></td>
-<td>Rank #727 / 35,548 — <b>Top 2%</b> for CarbonSense</td>
-<td>2026</td>
-</tr>
-<tr>
-<td>🥇 <b>ICPC — High Honor</b></td>
-<td>Chennai Regional</td>
-<td>Nov 2025</td>
-</tr>
-<tr>
-<td>🚀 <b>Ultron 9.0 Hackathon</b></td>
-<td>Top 10 / 300+ teams — led team, shipped QSecureX</td>
-<td>Jan 2026</td>
-</tr>
-<tr>
-<td>🥉 <b>Ship In a Day Buildathon</b></td>
-<td>3rd place — ForkCast</td>
-<td>Mar 2026</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ░▒▓█ DYNAMIC ZONE █▓▒░ -->
-<div align="center">
-
-## ▓▒░ THE_GRID — live telemetry ░▒▓
-
-<br/>
-
-<!-- Pacman contribution graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph.svg"/>
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Anchit Lahkar — Quantum ML, post-quantum security, full-stack" width="100%">
 </picture>
 
-<br/><br/>
+<p align="center">
+  <a href="https://anchitlahkar.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/anchit-lahkar"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:anchitlahkar0202@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="Anchit_Lahkar_Resume.pdf"><b>Résumé (PDF)</b></a>
+</p>
 
-<!-- 3D contribution graph -->
-<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+<br>
 
-<br/><br/>
+## About
 
-<!-- Metrics -->
-<img width="100%" src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-metrics.svg" alt="GitHub metrics"/>
+B.Tech CSE student at **SRM Institute of Science and Technology** (Kattankulathur, 2025–2029), originally from Guwahati, now in Chennai. CGPA **9.8 / 10**.
 
-<br/><br/>
+Since January 2026 I've been an undergraduate research assistant under **Dr. Manju A**, working on **variational quantum circuits** for binary classification. Outside the lab I ship full-stack products and hackathon projects, mostly where AI, security, or quantum computing meets a real interface.
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Anchitlahkar&theme=highcontrast&hide_border=true&background=0d0221&ring=ff2ec4&fire=ff9e00&currStreakLabel=ff2ec4&sideLabels=2de2e6&currStreakNum=ffffff&sideNums=ffffff&dates=b026ff" alt="GitHub streak"/>
+|   |   |
+|---|---|
+| **Research** | Quantum machine learning — variational circuits, encoding strategies |
+| **Building** | Full-stack apps, post-quantum cryptography tooling |
+| **Learning** | Qiskit Runtime · Quantum error mitigation · LangChain |
+| **Competing** | ICPC Chennai Regional (High Honor), hackathons, buildathons |
 
-<br/><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
 
-<!-- Activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anchitlahkar&bg_color=0d0221&color=ff2ec4&line=b026ff&point=ff9e00&area=true&hide_border=true" alt="Contribution activity graph"/>
+## Research
 
+**Variational Quantum Circuits for Forest-Fire Detection**
+<br><sub>Undergraduate Research Assistant · Jan 2026 – present · SRMIST · Advisor: Dr. Manju A</sub>
 
-</div>
+Binary classifiers for early forest-fire detection built as variational quantum circuits in **PennyLane**, benchmarked head-to-head against **Logistic Regression** and **Random Forest** baselines. The current question is how **amplitude encoding** and **angle encoding** trade off on expressivity, circuit depth, and trainability.
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
 
-<!-- ▓ DOMAIN MAP ▓ -->
-<div align="center">
+## Selected work
 
-## ◢◤ DOMAIN_MAP.mmd ◥◣
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+#### [CarbonSense](https://github.com/Anchitlahkar/CarbonSense)
+AI carbon-footprint platform. TERRA, an AI coach on Gemini 1.5 Flash, a 3D "Planet Twin" in React Three Fiber, receipt OCR, and deterministic TypeScript carbon math covered by 258 unit tests.
+<br><br>
+`React` `TypeScript` `Gemini` `Three.js`
+<br>
+🏆 **Top 2% · Google Prompt Wars** (#727 / 35,548)
 
-```mermaid
-graph TD
-    ROOT["Anchit Lahkar"]:::root
+</td>
+<td width="50%" valign="top">
 
-    ROOT --> QML["Quantum ML"]:::quantum
-    ROOT --> SEC["PQC / Security"]:::security
-    ROOT --> WEB["Full-Stack"]:::web
-    ROOT --> WIN["Achievements"]:::wins
+#### [QHack Quantum Lab](https://qinsight-sigma.vercel.app)
+Full-stack quantum circuit workbench. 20+ gates, a Qiskit Aer backend streamed over WebSocket, Bloch-sphere playback, and circuit comparison via the Bhattacharyya coefficient.
+<br><br>
+`Python` `Qiskit` `WebSocket`
+<br>
+⚛️ [**Live demo →**](https://qinsight-sigma.vercel.app)
 
-    QML --> Q1["Variational Quantum Circuits"]:::quantum
-    QML --> Q2["PennyLane / Qiskit"]:::quantum
-    QML --> Q3["Amplitude vs Angle Encoding"]:::quantum
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-    SEC --> S1["Kyber768 + ML-DSA-44"]:::security
-    SEC --> S2["AES-256-GCM"]:::security
-    SEC --> S3["QSecureX"]:::security
+#### [QSecureX](https://github.com/Anchitlahkar/QSecureX)
+Post-quantum secure file exchange: Kyber768 key encapsulation, ML-DSA-44 signatures (liboqs), AES-256-GCM, resumable chunked uploads, PyQt6 desktop client.
+<br><br>
+`Python` `liboqs` `PyQt6`
+<br>
+🚀 **Top 10 of 300+ teams · Ultron 9.0** (team lead)
 
-    WEB --> W1["React / Next.js"]:::web
-    WEB --> W2["FastAPI / Flask"]:::web
-    WEB --> W3["CarbonSense / ForkCast"]:::web
+</td>
+<td width="50%" valign="top">
 
-    WIN --> A1["Prompt Wars Top 2%"]:::wins
-    WIN --> A2["ICPC High Honor"]:::wins
-    WIN --> A3["Ultron 9.0 Top 10"]:::wins
+#### [Alpha-Forge](https://github.com/Anchitlahkar/Alpha-Forge)
+Zero-infrastructure research-intelligence pipeline. Scans RSS feeds, scores items with Gemini using a weighted signal formula, validates with Pydantic, publishes a dashboard on GitHub Pages and delivers via Telegram.
+<br><br>
+`Python` `Gemini` `Pydantic` `GitHub Actions`
 
-    classDef root fill:#0d0221,stroke:#ff2ec4,stroke-width:3px,color:#ffffff;
-    classDef quantum fill:#1a0533,stroke:#b026ff,stroke-width:2px,color:#b026ff;
-    classDef security fill:#1a0533,stroke:#2de2e6,stroke-width:2px,color:#2de2e6;
-    classDef web fill:#1a0533,stroke:#ff2ec4,stroke-width:2px,color:#ff2ec4;
-    classDef wins fill:#1a0533,stroke:#ff9e00,stroke-width:2px,color:#ff9e00;
-```
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+#### [ForkCast](https://github.com/Anchitlahkar/ForkCast)
+Realtime multiplayer restaurant-voting app. Next.js 15, Firestore transactions, Google Places, swipe gestures.
+<br><br>
+`Next.js` `Firestore` `Google Places`
+<br>
+🥉 **3rd place · Ship In a Day** &nbsp;·&nbsp; [Live →](https://forkcast-iota.vercel.app)
 
-<!-- ▓ CONNECT ▓ -->
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-## ⟢ ESTABLISH_CONNECTION() ⟣
+#### [Frame2Scene](https://github.com/Anchitlahkar/Frame2Scene)
+Photogrammetry pipeline: FFmpeg frame extraction, COLMAP dense reconstruction, and a custom C++ / Raylib point-cloud viewer.
+<br><br>
+`C++` `COLMAP` `FFmpeg` `Raylib`
 
-<a href="https://linkedin.com/in/anchit-lahkar">
-  <img src="https://img.shields.io/badge/LinkedIn-ff2ec4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" alt="LinkedIn"/>
-</a>
-<a href="mailto:anchitlahkar0202@gmail.com">
-  <img src="https://img.shields.io/badge/Email-b026ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" alt="Email"/>
-</a>
-<a href="https://anchitlahkar.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-ff9e00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0533" alt="Portfolio"/>
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+#### [Dreams Creation](https://dreamscreation.vercel.app)
+Production website for a three-branch preschool (220+ students). Next.js with server-side rendering and GSAP motion.
+<br><br>
+`Next.js` `GSAP`
+<br>
+🟢 In production &nbsp;·&nbsp; [Live →](https://dreamscreation.vercel.app)
 
-<em>「 Ship fast. Benchmark harder. Encode everything. 」</em>
+</td>
+<td width="50%" valign="top">
 
-</div>
+#### More
+Quantum tooling, security primitives and web experiments land regularly.
+<br><br>
+**[Browse all repositories →](https://github.com/Anchitlahkar?tab=repositories)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0d0221,30:7209b7,70:f72585,100:ff9e00&animation=fadeIn" alt="footer"/>
+</td>
+</tr>
+</table>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
+
+## Recognition
+
+| When | What | Detail |
+|:--|:--|:--|
+| 2026 | **Google Prompt Wars** | Rank #727 of 35,548 (top 2%) with CarbonSense |
+| Mar 2026 | **Ship In a Day Buildathon** | 3rd place with ForkCast |
+| Jan 2026 | **Ultron 9.0 Hackathon** | Top 10 of 300+ teams; led the team and shipped QSecureX |
+| Nov 2025 | **ICPC Chennai Regional** | High Honor |
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
+
+## Toolbox
+
+| | |
+|:--|:--|
+| **Languages** | Python · TypeScript · JavaScript · C++ · Java |
+| **Web & APIs** | React · Next.js · Node.js · FastAPI · Flask |
+| **Quantum** | PennyLane · Qiskit |
+| **AI / ML** | scikit-learn · PyTorch · TensorFlow · OpenCV · Gemini API |
+| **Data** | MySQL · Firebase · Supabase |
+| **Ship & Ops** | Vercel · GitHub Actions · Git |
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
+
+## Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-stats-card.svg" alt="GitHub stats" width="49%">
+  <img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-achievements.svg" alt="GitHub achievements" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%">
+</p>
+
+<details>
+<summary><b>More metrics</b></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anchitlahkar/Anchitlahkar/masters/github-metrics.svg" alt="GitHub metrics" width="100%">
+</p>
+</details>
+
+<br>
+
+<p align="center"><sub>Ship fast. Benchmark harder.</sub></p>
